@@ -1,2 +1,2 @@
 # sh-schedule-web
-Scheduling applicaiton
+Scheduling application
